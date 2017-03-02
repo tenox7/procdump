@@ -1,0 +1,5 @@
+procdump - dumps (some) content of procfs on SunOS 5.x
+
+unlike Linux, Solaris /proc filesystem is not in text format
+this utility allows to display content of /proc fs entries
+in user readable format
